@@ -8,9 +8,9 @@ default, run:
 After installing, please run `rustup dump-testament`, and verify that the output is:
 
 ```
-Rustup version renders as: 1.18.3+97 (c2dccd630 2019-07-01)
+Rustup version renders as: 1.18.3+119 (b5787936d 2019-07-03)
 Current crate version: 1.18.3
 Built from branch: profiles
-Commit info: 1.18.3+97 (c2dccd630 2019-07-01)
+Commit info: 1.18.3+119 (b5787936d 2019-07-03)
 Working tree is clean
 ```
